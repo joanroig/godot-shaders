@@ -21,6 +21,12 @@ A very simple shader that adds a shadow effect to 2D sprites. This shader can be
 
 ![Simple Shadow Shader](simple-shadow-shader-for-2d-sprites/simple-shadow-shader-for-2d-sprites.gif)
 
+### [Dynamic Shadow Shader for 2D Sprites](dynamic-shadow-shader-for-2d-sprites/dynamic-shadow-shader-for-2d-sprites.gdshader)
+
+A dynamic shadow shader for 2D sprites. The shadow follows the light direction and adjusts its position based on the sprite's location and the screen center.
+
+![Dynamic Shadow Shader](dynamic-shadow-shader-for-2d-sprites/dynamic-shadow-shader-for-2d-sprites.gif)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for more information.
